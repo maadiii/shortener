@@ -1,0 +1,13 @@
+# IDEs
+.idea/
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.swo
+*.swp
+
+# deps
+vendor/
+
+# test
+test/
