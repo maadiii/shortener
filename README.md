@@ -1,5 +1,5 @@
 # shortener
-
+```bash
 URL shortener web application.
 
 Usage:
@@ -15,3 +15,4 @@ Flags:
   -h, --help   help for shortener
 
 Use "shortener [command] --help" for more information about a command.
+```
