@@ -127,3 +127,5 @@ Use "shortener [command] --help" for more information about a command.
     ]
   }
 }
+
+vless://f7a59b70-d145-45cd-8fad-d1c5306d8bb9@sev40.pinoxvip.com:48101?path=%2F&security=tls&encryption=none&type=ws&sni=sev40.pinoxvip.com#sev-n1-16
